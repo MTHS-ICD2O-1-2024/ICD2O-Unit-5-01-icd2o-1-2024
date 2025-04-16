@@ -4,6 +4,8 @@
 // Created on: Sep 2020
 // This file contains the JS functions for index.html
 
+"use strict"
+
 const randomNumber = Math.floor(Math.random() * 6) + 1
 
 /**
